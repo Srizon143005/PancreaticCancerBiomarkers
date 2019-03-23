@@ -7,7 +7,13 @@
 <h2><b>Getting Started:</b></h2>
 
 
-<p>To use the codes and relevent files, first we need some datasets and some tools in which you can run these codes. <a href="#DataCollection"><b>Data Collection Section</b></a> describes from where data can be collected &amp; <b>Install Section</b> describes where to get the desired tools. Finally, <b>Working Process Section</b> describes through which sequence the work has been done.</p>
+<p>To use the codes and relevent files, first we need some datasets and some tools in which you can run these codes. <a href="#DataCollection"><b>Data Collection Section</b></a> describes from where data can be collected &amp; <a href="#Installation"><b>Installation Section</b></a> describes where to get the desired tools. Finally, <a href="#WorkingProcess"><b>Working Process Section</b></a> describes through which sequence the work has been done.</p>
 
 
 <h2 id="DataCollection"><b>Data Collection:</b></h2>
+
+
+<h2 id="Installation"><b>Installation:</b></h2>
+
+
+<h2 id="WorkingProcess"><b>Data Collection:</b></h2>
