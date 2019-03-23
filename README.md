@@ -7,7 +7,7 @@
 
 
 <h2 id="DataCollection"><b>Data Collection</b></h2>
-<p>Three mRNA microarray datasets (GSE15471, GSE16515 &amp; GSE28725) and one microRNA expression dataset (GSE41372) have been used for this experiment. All these datasets were downloaded from <a href="https://www.ncbi.nlm.nih.gov/geo/">GEO</a>. Although the datasets are included in this repository under the folder '<b>Main Data</b>', you can still download it from the given links and also find out data description for each dataset.</p>
+<p>Three mRNA microarray datasets (GSE15471, GSE16515 &amp; GSE28725) and one microRNA expression dataset (GSE41372) have been used for this experiment. All these datasets were downloaded from <a href="https://www.ncbi.nlm.nih.gov/geo/"><b>GEO</b></a>. Although the datasets are included in this repository under the folder '<b>Main Data</b>', you can still download it from the given links and also find out data description for each dataset.</p>
 
 <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15471"><b>GSE15471</b></a>,
 <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16515"><b>GSE16515</b></a>,
