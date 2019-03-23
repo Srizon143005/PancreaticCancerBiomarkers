@@ -16,7 +16,7 @@
 
 
 <h2 id="Installation"><b>Installation</b></h2>
-<p>For implementing Student's T-Test, R language &amp; RStudio platform have been used. For additional comparing and counting jobs, Python has been used. Pandas package was used to read csv files. RStudio is available in <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Official Website</a>. Anaconda software can be downloaded from <a href="https://www.anaconda.com/distribution/">Anaconda Official Website</a> as well. Moreover, Pandas Library was intalled by writing following command in Anaconda Prompt:</p>
+<p>For implementing Student's T-Test, R language &amp; RStudio platform have been used. For additional comparing and counting jobs, Python has been used. Pandas package was used to read csv files. RStudio is available in <a href="https://www.rstudio.com/products/rstudio/download/"><b>RStudio Official Website</b></a>. Anaconda software can be downloaded from <a href="https://www.anaconda.com/distribution/"><b>Anaconda Official Website</b></a> as well. Moreover, Pandas Library was intalled by writing following command in Anaconda Prompt:</p>
 
 <code>
     conda install -c anaconda pandas
@@ -26,7 +26,7 @@
 <h2 id="WorkingProcess"><b>Working Process</b></h2>
 <p>The following steps were followed:</p>
 <ol>
-    <li>For each dataset, get the processed data from <a href="https://www.ncbi.nlm.nih.gov/geo/geo2r">GEO2R</a>, run R code to evaluate adjusted P-values and select the desired genes. All files can be found in the corresponding folders.</li>
+    <li>For each dataset, get the processed data from <a href="https://www.ncbi.nlm.nih.gov/geo/geo2r"><b>GEO2R</b></a>, run R code to evaluate adjusted P-values and select the desired genes. All files can be found in the corresponding folders.</li>
     <li>For each selected microRNA, get target genes using miRecords online tool.</li>
     <li>Now run Python files located in '<b>Python Codes To Compare and Select DEGs, DEMs, Common DEGs among Target Genes</b>' floder to get the desired biomarkers.</li>
 </ol>
